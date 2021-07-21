@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lehaxe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aleksei Tulin
+- 👀 I’m interested in Swift.
+- 🌱 I’m currently learning Swift.
+- 💞️ I’m looking to collaborate on Swift projects.
+- 📫 How to reach me @telegram: @alexvuuu
 
 <!---
 lehaxe/lehaxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
